@@ -1,0 +1,8 @@
+
+//bgmを流す
+[playbgm storage=Two_World.mp3]
+[stopbgm]
+
+
+//背景の変更
+[bg storage=room.jpg time=3000]
