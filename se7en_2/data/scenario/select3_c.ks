@@ -5,7 +5,7 @@
 [bg storage=heya_uehara.jpg time=2000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 ;[立ち絵：uehara]
 [chara_new name="uehara" storage="uehara.png" jname="上原"]
@@ -63,7 +63,7 @@
 
 #
 ;[BGM：gimonn(効果音/ループなし)]
-[playse storage="gimonn_koukaonn.ogg"]
+[playse storage="gimonn_koukaonn.mp3"]
 
 未稀を見てビックリした上原は、急須を傾けてしまい、お茶が少し床にこぼれてしまった。[l][cm]
 

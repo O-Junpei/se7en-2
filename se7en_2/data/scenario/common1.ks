@@ -42,7 +42,7 @@
 [bg storage=black.jpg time=2000]
 
 ;[BGM：Two World]
-[playbgm storage=Two_World.ogg]
+[playbgm storage=Two_World.mp3]
 
 やはり駄目だったか。[l][cm]
 
@@ -99,7 +99,7 @@
 [bg storage=rouka_byoin.jpg]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 
 この病院に来るのも慣れっこになった。[l][r]
@@ -328,7 +328,7 @@
 [bg storage=black.jpg time=2000]
 
 ;[BGM：Two World]
-[playbgm storage=Two_World.ogg]
+[playbgm storage=Two_World.mp3]
 
 捜査員の調べによると、被害者が経営していた会社の社員2人と、会社が入っているテナントビルの管理人が怪しいとのことだった。[l][r]
 会社といっても社員2人、社長の工藤を入れても3人の小さな会社だ。[l][r]

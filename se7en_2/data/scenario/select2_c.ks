@@ -6,7 +6,7 @@
 [bg storage=sinnsatusitu_hiru.jpg time=2000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 ;[立ち絵：nanami(tuzyou)]
 [chara_new name="nanami" storage="nanami_tuzyou.png" jname="七海"]
@@ -357,7 +357,7 @@
 
 
 ;[BGM：two world]
-[playbgm storage=Two_World.ogg]
+[playbgm storage=Two_World.mp3]
 
 
 未稀たちと違い、死がより身近にある戦場。そんなところで、実際に人を殺した人が、この事件の容疑者候補だとは。しかも3人も。わけがわからない。[l][cm]

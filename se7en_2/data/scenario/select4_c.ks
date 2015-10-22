@@ -5,7 +5,7 @@
 [bg storage=syanai.png time=2000]
 
 ;[BGM：Eight Number8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 #西尾七海
 「テナントの管理人さんが犯人?」[l][cm]
