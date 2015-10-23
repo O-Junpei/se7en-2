@@ -6,7 +6,7 @@
 [bg storage=desuku.jpg time=2000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 
 本庁に戻ると、神楽坂警部はデスクで書類と格闘していた。[l][r]

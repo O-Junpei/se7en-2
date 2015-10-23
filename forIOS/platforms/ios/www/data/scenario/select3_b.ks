@@ -5,7 +5,7 @@
 [bg storage=heya_takahasi.jpg time=2000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 ;[立ち絵：takahasi]
 [chara_new name="takahasi" storage="takahasi.png" jname="高橋"]
@@ -76,7 +76,7 @@
 
 #
 ;[BGM：gimonn(効果音/ループなし)]
-[playse storage="gimonn_koukaonn.ogg"]
+[playse storage="gimonn_koukaonn.mp3"]
 
 #高橋劉輝
 「ん?　うわっ!　何だよ急に!?」[l][cm]

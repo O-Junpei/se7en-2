@@ -7,7 +7,7 @@
 
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 
 ;[立ち絵：egawa]
@@ -110,7 +110,7 @@
 江川がケータイを拾うためにしゃがみ込む。その隙に未稀は、江川の後ろに回りこむ。[l][cm]
 
 ;[BGM：gimonn(効果音/ループなし)]
-[playse storage="gimonn_koukaonn.ogg"]
+[playse storage="gimonn_koukaonn.mp3"]
 
 #江川康弘
 「!」[l][cm]

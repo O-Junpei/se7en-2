@@ -21,7 +21,7 @@
 [bg storage=black.jpg time=2000]
 
 ;[BGM:Two World]
-[playbgm storage=Two_World.ogg]
+[playbgm storage=Two_World.mp3]
 
 そんなわけで現場を後にしようとした矢先、捜査員から連絡が入った。[l][r]
 容疑者候補の3人は、いずれも過去に軍事関係の仕事に就いていたというのだ。[l][r]

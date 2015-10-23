@@ -9,7 +9,7 @@
 
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 ;[立ち絵：uehara]
 [chara_new name="uehara" storage="uehara.png" jname="上原"]

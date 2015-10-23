@@ -44,7 +44,7 @@
 [bg storage=sinnsatusitu_hiru.jpg time=3000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 ;[立ち絵：nanami(tuzyou)]
 [chara_new name="nanami" storage="nanami_tuzyou.png" jname="七海"]

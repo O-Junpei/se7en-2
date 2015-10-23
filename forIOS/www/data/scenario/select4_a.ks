@@ -258,7 +258,7 @@
 [bg storage=sinnsatusitu_hiru.jpg time=2000]
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 神楽坂は未稀と七海が無事戻ってきたことで安堵の表情になった。[l][r]
 神楽坂を送り届けた未稀は、病院にある七海の部屋でコーヒーを飲んでいた。[l][r]

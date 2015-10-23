@@ -7,7 +7,7 @@
 
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 
 ;[立ち絵：nanami(tuuzyou)]
@@ -98,7 +98,7 @@
 
 
 ;[BGM：Eight Number 8]
-[playbgm storage=Eight_Nomber_8.ogg]
+[playbgm storage=Eight_Nomber_8.mp3]
 
 
 ;[立ち絵：nanami(tuuzyou)]

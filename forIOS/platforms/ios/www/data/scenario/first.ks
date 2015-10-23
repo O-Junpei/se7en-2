@@ -12,7 +12,7 @@
 
 ;メッセージレイヤを薄くする
 [position opacity=0]
-[playbgm storage=zero.ogg loop=true]
+[playbgm storage=zero.mp3 loop=true]
 ;NewGame
 [locate x=90 y=350]
 [button graphic="hazime.png" target=*newGame]
